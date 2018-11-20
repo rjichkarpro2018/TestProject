@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package>
+Addition
+<types>
+    <members>DATG_WarningOnActivity</members>
+    <members>DATG_HelpLinksComponent</members>
+    <members>DATG_ActivitySelectionForBlkEdit</members>
+    <members>DATG_ActivitySelectionForTeamEdit</members>
+    <name>AuraDefinitionBundle</name>
+</types>
+<types>
+    <members>Activity_Team_Member__c.Campaign_Status__c</members>
+    <members>Activity_Team_Member__c.Campaign__c</members>
+    <members>Activity__c.Count_CD_Lead__c</members>
+    <members>Campaign__c.Count_CD_Lead__c</members>
+    <members>DATG_Home_Page_Metadata_mdt.Display_Under_Section_c</members>
+    <members>DATG_Home_Page_Metadata_mdt.Display_Order_c</members>
+    <members>Campaign_c.Properties_Deleted_From_Activity_c</members>
+    <members>DATG_ActivitySelectionForTeamEdit</members>
+    <members>Activity__c.Client__c</members>
+    <members>Activity__c.Activity_Type__c</members>
+    <members>Activity__c.Activity_Status__c</members>
+    <name>CustomField</name>
+</types>
+<types>
+    <members>Activity__c.Artwork</members>
+    <members>Activity__c.Experiential</members>
+    <members>Activity__c.Audio</members>
+    <members>Activity__c.Motion_Design</members>
+    <members>Activity__c.Original_Content</members>
+    <members>Activity__c.Social</members>
+    <members>Activity__c.Video</members>
+    <name>RecordType</name>             
+</types>
+<types>
+    <members>DATG_Default_Campaign_Search_Off_Air_and_International_Delivery_on_Activity</members>
+    <name>Flow</name>             
+</types>
+<types>
+    <members>*</members>
+    <name>CustomLabel</name>
+</types>
+<types>
+    <members>*</members>
+    <name>CustomMetadata</name>
+</types>
+<types>
+    <members>Campaign_Property_Season_Junction__c</members>
+    <members>Activities_Property_Season_Episode__c</members>
+    <name>CustomObject</name>
+</types>
+<types>
+    <members>Activities_Property_Season_Episode__c-Activities Property Season Episode Junc Layout</members>
+    <members>Campaign_Property_Season_Junction__c-Campaign Property Season Junction Layout</members>
+    <name>Layout</name>
+</types>
+<types>
+    <members>Activity__c.Activity_Name_Modification_Error</members>
+    <members>Activity__c.DATG_only_one_CD_Lead_Activity</members>
+    <members>Activity__c.same_user_cant_be_2_wp</members>
+    <name>ValidationRule</name>
+</types>
+<types>
+    <members>DATG_Constants</members>
+    <members>DATG_ActivityTriggerHandler</members>
+    <members>DATG_ActivityTeamMemberTriggerHandler</members>
+    <members>DATG_CloneActivity</members>
+    <members>DATG_MetadataController</members>
+    <members>DATG_ActivityController</members>
+    <members>DATG_ActivityTriggerHandler</members>
+    <members>DATG_CreateCampaignController</members>
+    <members>DATG_ActivityBulkEditForTeamController</members>
+    <members>DATG_ActivityBulkEditController</members>
+    <members>DATG_ActivityBulkEditForTeamController</members>
+    <members>DATG_CampaignTriggerHandler</members>
+    <members>DATG_CreateCampaignController</members>
+    <members>DATG_ScheduleBatchToCalSatellite_Test</members>
+    <members>DATG_JITHandler_Test</members>
+    <members>DATG_NotifyActTeamMemberSchedulable_Test</members>
+    <members>DATG_NotifyActivtyTeamMembersBatch</members>
+    <members>DATG_NotifyActivtyTeamMembersSchedulable</members>
+    <members>DATG_TestData_Test</members>
+    <members>DATG_MetadataController</members>
+    <members>DATG_MetadataController_Test</members>
+    <members>DATG_CampaignTeamMemberTriggerHandler</members>
+    <members>DATG_ExecuteIntegration_Test</members>
+    <members>DATG_File_Preview_Controller_Test</members>
+    <members>DATG_ActivityController</members>
+    <members>DATG_CreateCampaignController</members>
+    <members>DATG_Interface_Retry_Batch_Test</members>
+    <members>DATG_Interface_Retry_Scheduler</members>
+    <members>DATG_Interface_Retry_Scheduler_Test</members>
+    <members>DATG_JITHandler</members>
+    <members>DATG_PropertyTriggerHandler</members>
+    <members>DATG_PropertyTriggerHandler_Test</members>
+    <members>DATG_RADARWrapper</members>
+    <members>DATG_RADARWrapper_Test</members>
+    <members>DATG_RADAR_Batch_Test</members>
+    <members>DATG_RADAR_Scheduler</members>
+    <members>DATG_RADAR_Scheduler_Test</members>
+    <members>DATG_RADAR_TitleProcessor</members>
+    <members>DATG_RADAR_TitleProcessor_Test</members>
+    <members>DATG_RADAR_Titles</members>
+    <members>DATG_Radar_Batch</members>
+    <members>DATG_ScheduleBatchToCalSatellite</members>
+    <members>DATG_SeasonTriggerHandler</members>
+    <members>DATG_SeasonTriggerHandler_Test</members>
+    <members>DATG_TestData</members>
+    <members>DATG_Utilities</members>
+    <members>DATG_Utilities_Test</members>
+    <members>DATG_Utility_HttpMockCallout</members>
+    <members>DATG_customLookUpController</members>
+    <members>TriggerHandler</members>
+    <members>TriggerHandler_Test</members>
+    <members>DATG_APIM_ServiceHandler</members>
+    <members>DATG_APIM_ServiceHandler_Test</members>
+    <members>DATG_Activity_Interface_Error</members>
+    <members>DATG_ActivityBulkEditController</members>
+    <members>DATG_ActivityBulkEditController_Test</members>
+    <members>DATG_ActivityBulkEditForTeamController</members>
+    <members>DATG_Activity_Interface_Error_Test</members>
+    <members>DATG_CloneActivity</members>
+    <members>DATG_CloneActivity_Test</members>
+    <members>DATG_Constants</members>
+    <members>DATG_ActTeamMemberTgrHandler_Test</members>
+    <members>DATG_ActivityController_Test</members>
+    <members>DATG_ActivityMemberTriggerHandler_Test</members>
+    <members>DATG_ActivityPropSeasonTriggerHandler</members>
+    <members>DATG_ActivityPropSeasonTrigger_Test</members>
+    <members>DATG_ActivityTriggerHandler</members>
+    <members>DATG_ActivityTriggerHandlerTest</members>
+    <members>DATG_BatchToCalculateSatelliteOnAct_Test</members>
+    <members>DATG_BatchToCalculateSatelliteOnActivity</members>
+    <members>DATG_CampaignJunctionTriggerHandler</members>
+    <members>DATG_CampaignJunctionTrigger_Test</members>
+    <members>DATG_CampaignTriggerHandler</members>
+    <members>DATG_CampaignTriggerHandler_Test</members>
+    <members>DATG_CreateCampaignController_Test</members>
+    <members>DATG_CustomLookUpController_Test</members>
+    <members>DATG_EpisodeTriggerHandler</members>
+    <members>DATG_EpisodeTriggerHandler_Test</members>
+    <members>DATG_ExecuteIntegration</members>
+    <members>DATG_File_Preview_Controller</members>
+    <members>DATG_IntegrationInterface</members>
+    <members>DATG_Integration_Util</members>
+    <members>DATG_Integration_Util_Test</members>
+    <members>DATG_InterfaceTxnResponse</members>
+    <members>DATG_InterfaceTxnResponse_Test</members>
+    <members>DATG_InterfaceTxnTriggerHandler</members>
+    <members>DATG_InterfaceTxnTriggerTest</members>
+    <members>DATG_Interface_Retry_Batch</members>
+    <name>ApexClass</name>
+</types>
+<types>
+    <members>DATG_CampaignTeamMemberTrigger</members>
+    <members>DATG_ActivitiesTrigger</members>
+    <members>DATG_ActivityPropSeasonTrigger</members>
+    <members>DATG_ActivityTeamMemberTrigger</members>
+    <members>DATG_CampaignJunctionTrigger</members>
+    <members>DATG_CampaignTrigger</members>
+    <members>DATG_EpisodeTrigger</members>
+    <members>DATG_InterfaceTxnTrigger</members>
+    <members>DATG_PropertyTrigger</members>
+    <members>DATG_SeasonTrigger</members>
+    <name>ApexTrigger</name>
+</types>
+<types>
+    <members>*</members>
+    <name>CustomMetadata</name>
+</types>
+<version>41.0</version>
+</package>
