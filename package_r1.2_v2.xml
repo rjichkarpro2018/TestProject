@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<package>
+<package>Test
 <types>
     <members>DATG_WarningOnActivity</members>
     <members>DATG_HelpLinksComponent</members>
@@ -51,6 +51,14 @@
 <types>
     <members>Activities_Property_Season_Episode__c-Activities Property Season Episode Junc Layout</members>
     <members>Campaign_Property_Season_Junction__c-Campaign Property Season Junction Layout</members>
+    <members>Activity__c-Activity Artwork layout</members>
+    <members>Activity__c-Activity Audio layout</members>
+    <members>Activity__c-Activity Experiential Layout</members>
+    <members>Activity__c-Activity Motion Design layout</members>
+    <members>Activity__c-Activity Original Content Layout</members>
+    <members>Activity__c-Activity Social Layout</members>
+    <members>Activity__c-Activity Video Layout</members>
+    <members>Activity__c-SYSADM ONLY_Activity Video Layout</members>
     <name>Layout</name>
 </types>
 <types>
